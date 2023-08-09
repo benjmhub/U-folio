@@ -1,8 +1,8 @@
 {
-  "name": "vivek9patel-portfolio",
+  "name": "Ben-Muhire-portfolio",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://vivek9patel.github.io/",
+  "homepage": "https://github.com/benjmhub/B-folio",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
