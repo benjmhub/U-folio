@@ -153,7 +153,7 @@ function Education() {
                 </li>
                 <li className="list-disc mt-5">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
-                        Class 12<sup>th</sup> (GSEB)
+                        Class 12<sup>th</sup> (GSRM)
                     </div>
                     <div className=" text-sm text-gray-400 mt-0.5">2017 - 2019</div>
                     <div className=" text-sm md:text-base">Maths, Physics, Chemistry</div>
