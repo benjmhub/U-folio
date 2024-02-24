@@ -389,6 +389,6 @@ function Projects() {
 }
 function Resume() {
     return (
-        <iframe className="h-full w-full" src="./files/Ben Resume.pdf" title="Ben resume" frameBorder="0"></iframe>
+        <iframe className="h-full w-full" src="./files/Benjamin Resume.pdf" title="Benjamin Resume" frameBorder="0"></iframe>
     )
 }
